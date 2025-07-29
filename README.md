@@ -74,7 +74,6 @@ email: jotheeshwaranv2002@gmail.com
   <img src="https://komarev.com/ghpvc/?username=Jotheesh2002&style=for-the-badge&color=blue" />
 </p>
 
-![snake gif](https://github.com/Jotheesh2002/Jotheesh2002/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -84,12 +83,12 @@ email: jotheeshwaranv2002@gmail.com
 
 * 🧠 Stack: Terraform, ECS Fargate, ALB, ECR, CloudWatch
 * 🔗 /api/v1/a & /api/v1/b routing
-* ✨ Highlights: Autoscaling + Logging + IaC [GitHub Repo](https://github.com/Jotheesh2002/ecs-microservices)
+* ✨ Highlights: Autoscaling + Logging + IaC [GitHub Repo](https://github.com/Jotheesh2002/ecs-microservices-alb.git)
 
 ### 2️⃣ Kubernetes GitOps Monitoring
 
 * 🧠 Stack: EKS, ArgoCD, Helm, Prometheus, Grafana
-* ✨ Highlights: GitOps, Metrics, Dashboards [GitHub Repo](https://github.com/Jotheesh2002/eks-gitops-monitoring)
+* ✨ Highlights: GitOps, Metrics, Dashboards [GitHub Repo](https://github.com/Jotheesh2002/formcept-devops-assessment.git)
 
 ### 3️⃣ Serverless Image Processor
 
@@ -99,12 +98,12 @@ email: jotheeshwaranv2002@gmail.com
 ### 4️⃣ Secure CI/CD Pipeline
 
 * 🧠 Stack: GitHub Actions, Trivy, Terraform, ECR, ECS
-* ✨ Highlights: DevSecOps workflow automation [GitHub Repo](https://github.com/Jotheesh2002/devsecops-cicd)
+* ✨ Highlights: DevSecOps workflow automation [GitHub Repo](https://github.com/Jotheesh2002/CI-CD-Pipeline-Automation-using-Jenkins.git)
 
 ### 5️⃣ Terraform Infra Automation
 
 * 🧠 Stack: Terraform (modular IaC)
-* ✨ Highlights: VPC, EC2, S3, RDS, IAM [GitHub Repo](https://github.com/Jotheesh2002/terraform-infra-automation)
+* ✨ Highlights: VPC, EC2, S3, RDS, IAM [GitHub Repo](https://github.com/Jotheesh2002/ecs-microservices-alb.git)
 
 ---
 
